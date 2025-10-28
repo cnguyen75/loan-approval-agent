@@ -30,7 +30,7 @@ I chose **LangChain** for several strategic reasons:
 1. **Agent Development**: LangChain makes it easy to create AI agents with minimal boilerplate code
 2. **Future Scalability**: If additional features are needed (embeddings, vector stores, memory), LangChain provides seamless integration paths
 3. **Testing & Performance**: LangChain includes built-in tools for testing and performance tracking, enabling scalable deployment
-4. **Ecosystem**: Rich ecosystem of integrations and community support
+4. **Ecosystem**: Ecosystem of integrations and community support
 
 ### Why Pydantic?
 
