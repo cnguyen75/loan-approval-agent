@@ -1,0 +1,15 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-openai
+
+# Document processing
+pypdf
+
+# Data validation
+pydantic
+
+# Utilities
+python-dotenv
+pandas
+numpy
